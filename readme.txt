@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Modulo Calculator](https://www.calculator.io/modulo-calculator/ "Modulo Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_modulo_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Modulo Calculator to the sidebar through the `Appearance -> Widgets -> Modulo Calculator` menu in WordPress.
+* Add the shortcode `[ci_modulo_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_modulo_calculator(); ?>` to your template where you would like the Modulo Calculator to appear.
 
 == Screenshots ==
