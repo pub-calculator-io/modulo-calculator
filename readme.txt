@@ -13,6 +13,8 @@ The modulo calculator finds the remainder of the division of two rational/irrati
 
 The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
 
+[Modulo Calculator Homepage](https://www.calculator.io/modulo-calculator/ "Modulo Calculator Homepage")
+
 __Shortcode__
 
 Use the Modulo Calculator shortcode:
