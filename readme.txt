@@ -13,34 +13,35 @@ The modulo calculator finds the remainder of the division of two rational/irrati
 
 The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
 
-[Modulo Calculator Homepage](https://www.calculator.io/modulo-calculator/ "Modulo Calculator Homepage")
+[https://www.calculator.io/modulo-calculator/](https://www.calculator.io/modulo-calculator/)
 
-__Shortcode__
-
-Use the Modulo Calculator shortcode:
+__Modulo Calculator Shortcode__
 
 `[ci_modulo_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_modulo_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Modulo Calculator](https://www.calculator.io/modulo-calculator/ "Modulo Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Modulo Calculator Usage ==
+
 * Add the shortcode `[ci_modulo_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_modulo_calculator(); ?>` to your template where you would like the Modulo Calculator to appear.
 
 == Screenshots ==
+
 1. The Modulo Calculator Input Form.
 2. The Modulo Calculator Calculation Results.
+
+== Libraries used in Modulo Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
