@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
 
-== Description ==
-
-The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
-
 [https://www.calculator.io/modulo-calculator/](https://www.calculator.io/modulo-calculator/)
 
-__Modulo Calculator Shortcode__
+== Usage ==
+
+Add the Modulo Calculator shortcode to your page, post or sidebar:
 
 `[ci_modulo_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Modulo Calculator to appear:
 
-1. Upload the /ci_modulo_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Modulo Calculator](https://www.calculator.io/modulo-calculator/ "Modulo Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Modulo Calculator Usage ==
-
-* Add the shortcode `[ci_modulo_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_modulo_calculator(); ?>` to your template where you would like the Modulo Calculator to appear.
+`<?php display_ci_modulo_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Modulo Calculator Input Form.
 2. The Modulo Calculator Calculation Results.
 
-== Libraries used in Modulo Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Modulo Calculator /ci_modulo_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Modulo Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Modulo Calculator
