@@ -1,6 +1,6 @@
 === Modulo Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: modulo calculator, modulus calculator, remainder calculator, modulo operation calculator, modulus operation calculator, remainder after division calculator, modulo arithmetic calculator, modulus arithmetic calculator, modulo math calculator, modulus math calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
