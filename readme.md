@@ -1,4 +1,4 @@
-# Modulo Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Modulo Calculator Widget for WordPress
 
 The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
 
