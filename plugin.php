@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Modulo Calculator by www.calculator.io
+Plugin Name: CI Modulo calculator
 Plugin URI: https://www.calculator.io/modulo-calculator/
 Description: The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
 Version: 1.0.0

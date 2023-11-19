@@ -1,4 +1,4 @@
-=== Modulo Calculator by www.calculator.io ===
+=== CI Modulo calculator ===
 Contributors: calculatorio
 Tags: modulo calculator, modulus calculator, remainder calculator, modulo operation calculator, modulus operation calculator, remainder after division calculator, modulo arithmetic calculator, modulus arithmetic calculator, modulo math calculator, modulus math calculator
 Requires at least: 5.0
