@@ -7,7 +7,7 @@ The modulo calculator finds the remainder of the division of two rational/irrati
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/modulo-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /modulo-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Modulo Calculator](https://www.calculator.io/modulo-calculator/ "Modulo Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
