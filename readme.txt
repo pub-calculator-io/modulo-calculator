@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Modulo Calculat
 == Screenshots ==
 
 1. The Modulo Calculator Input Form.
-2. The Modulo Calculator Calculation Results.
 
 == Installation ==
 

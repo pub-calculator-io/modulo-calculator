@@ -3,7 +3,6 @@
 The modulo calculator finds the remainder of the division of two rational/irrational positive/negative numbers. You can also find out how to find modulus manually.
 
 ![Modulo Calculator Input Form](/assets/images/screenshot-1.png "Modulo Calculator Input Form")
-![Modulo Calculator Calculation Results](/assets/images/screenshot-2.png "Modulo Calculator Calculation Results")
 
 ## Installation
 
